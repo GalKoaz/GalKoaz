@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 <p align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GalKoaz&show_icons=true&theme=tokyonight)
 </p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=GalKoaz&show_icons=true&theme=tokyonight&layout=compact&line_height=20" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=GalKoaz&show_icons=true&theme=react&layout=compact&line_height=20" />
 
